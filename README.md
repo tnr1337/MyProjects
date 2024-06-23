@@ -1,1 +1,1 @@
-# MyProject
+Buradan kendi projelerime bakabilirsiniz ve çalışmalarım hakkında fikirlerinizi belirtebilirsiniz.
